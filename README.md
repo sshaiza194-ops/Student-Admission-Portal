@@ -54,7 +54,7 @@ This project was developed to strengthen my understanding of HTML structure, sem
 
 ## 🏠 Home Page
 
-![Home](screenshots/home.png)
+![home](screenshots/home.png)
 
 ---
 
@@ -66,7 +66,7 @@ This project was developed to strengthen my understanding of HTML structure, sem
 
 ## ℹ️ About Institute
 
-![About](screenshots/about.png)
+![About](screenshots/abouts.png)
 
 ---
 
