@@ -54,37 +54,37 @@ This project was developed to strengthen my understanding of HTML structure, sem
 
 ## 🏠 Home Page
 
-![home](ScreenShots/home.png)
+![home](home.png)
 
 ---
 
 ## 🧭 Navigation Bar
 
-![nav](ScreenShots/nav.png)
+![nav](nav.png)
 
 ---
 
 ## ℹ️ About Institute
 
-![abouts](ScreenShots/abouts.png)
+![Abouts](abouts.png)
 
 ---
 
 ## 🎓 Programs Offered
 
-![programs](ScreenShots/programs.png)
+![Programs](programs.png)
 
 ---
 
 ## 💰 Fee Structure
 
-![fee]ScreenShots/fee.png)
+![Fee]ScreenShots/fee.png)
 
 ---
 
 ## 📞 Contact Information
 
-![contact](ScreenShots/contact.png)
+![Contact](contact.png)
 
 ---
 
@@ -96,14 +96,12 @@ Student-Admission-Portal/
 ├── Dashboard.html
 ├── campus.png
 ├── README.md
-│
-└── ScreenShots/
-    ├── home.png
-    ├── nav.png
-    ├── about.png
-    ├── programs.png
-    ├── fee.png
-    └── contact.png
+├── home.png
+├── nav.png
+├── about.png
+├── programs.png
+├── fee.png
+└── contact.png
 ```
 
 ---
