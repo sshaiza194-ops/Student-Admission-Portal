@@ -54,19 +54,19 @@ This project was developed to strengthen my understanding of HTML structure, sem
 
 ## 🏠 Home Page
 
-![home](screenshots/home.png)
+![home](ScreenShots/home.png)
 
 ---
 
 ## 🧭 Navigation Bar
 
-![Navigation](screenshots/nav.png)
+![Navingation](ScreenShots/nav.png)
 
 ---
 
 ## ℹ️ About Institute
 
-![About](screenshots/abouts.png)
+![About](ScreenShots/abouts.png)
 
 ---
 
@@ -78,13 +78,13 @@ This project was developed to strengthen my understanding of HTML structure, sem
 
 ## 💰 Fee Structure
 
-![Fee Structure](screenshots/fee.png)
+![Fee Structure]ScreenShots/fee.png)
 
 ---
 
 ## 📞 Contact Information
 
-![Contact](screenshots/contact.png)
+![Contact](ScreenShots/contact.png)
 
 ---
 
