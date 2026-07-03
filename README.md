@@ -72,7 +72,7 @@ This project was developed to strengthen my understanding of HTML structure, sem
 
 ## 💰 Fee Structure
 
-![Fee]ScreenShots/fee.png)
+![Fee]fee.png)
 
 ---
 
