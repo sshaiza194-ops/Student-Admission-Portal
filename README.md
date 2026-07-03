@@ -58,12 +58,6 @@ This project was developed to strengthen my understanding of HTML structure, sem
 
 ---
 
-## 🧭 Navigation Bar
-
-![nav](nav.png)
-
----
-
 ## ℹ️ About Institute
 
 ![Abouts](abouts.png)
